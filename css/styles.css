@@ -1,0 +1,15 @@
+.skill {
+    border: 1px solid yellow;
+    background-color: lightyellow;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+
+.skill a {
+    text-decoration: none;
+    color: gray;
+    border-left: 1px solid gray;
+    padding-left: 7px;
+    margin-left: 8px;
+}
